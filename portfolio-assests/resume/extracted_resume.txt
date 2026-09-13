@@ -1,0 +1,61 @@
+--- Page 1 ---
+Nipun Kulshrestha
+Phone +91 8799207242 | Envelope nipunkulshrestha25@gmail.com | LINKEDIN LinkedIn | Github GitHub | CODE LeetCode
+PROFESSIONAL SUMMARY
+Computer Science and Engineering student with hands-on experience building full-stack web applications using Java,
+Python, JavaScript, React.js, Node.js, Express.js, and modern database technologies. Proﬁcient in developing scalable
+RESTful applications, designing eﬃcient backend systems, and collaborating on real-world software projects. Passionate
+about solving complex problems, learning emerging technologies, and contributing as a Software Engineer by building
+eﬃcient, reliable, and user-centric software solutions.
+EDUCATION
+Parul University Vadodara, Gujarat
+Bachelor of T echnology in Computer Science and Engineering 2023 – 2027
+– CGPA: 7.83 / 10
+TECHNICAL SKILLS
+Programming Languages: Java, Python, JavaScript
+Frontend: React.js, HTML5, CSS3, T ailwind CSS
+Backend: Node.js, Express.js, RESTful APIs, Authentication
+Databases: MongoDB, PostgreSQL, MySQL
+Developer Tools: Git, GitHub, Docker, Vercel, VS Code, Postman
+Core Computer Science: Object-Oriented Programming (OOP), Data Structures and Algorithms (DSA), Database
+Management Systems (DBMS), Operating Systems, Computer Networks
+PROJECTS
+TravelLoop – Travel Planning Platform
+T ypeScript, Next.js, React.js, Supabase, PostgreSQL, T ailwind CSS, Vercel
+– Built a premium full-stack travel planning platform using Next.js and Supabase for seamless itinerary management.
+– Implemented secure itinerary sharing, user authentication, and dynamic budget tracking to enhance collaborative travel
+planning.
+– Designed a responsive user interface and managed the complete development lifecycle, including PostgreSQL
+database design, backend integration, and deployment on Vercel.
+Civic Issue Tracker – Smart Urban Maintenance System
+Next.js, React.js, T ailwind CSS, T ypeScript, Node.js, Supabase, Leaﬂet
+– Developed a full-stack civic issue reporting platform to streamline urban maintenance and infrastructure management.
+– Integrated a Computer Vision pipeline with a centralized administrative dashboard for automated issue classiﬁcation and
+monitoring.
+– Implemented real-time issue tracking, hazard detection, and automated task assignment to improve response time for
+municipal authorities.
+Sentinel – Gig Worker Safety Platform
+Next.js, React.js, T ailwind CSS, Radix UI, Supabase, PostgreSQL, Docker, Vercel
+– Developed a full-stack safety and monitoring platform for gig workers and delivery personnel.
+– Implemented real-time monitoring and risk assessment features to improve operational safety and incident awareness.
+– Designed a scalable full-stack architecture supporting real-time monitoring and operational workﬂows using modern web
+technologies.
+--- Page 2 ---
+CERTIFICATIONS
+• AWS Academy Graduate Amazon Web Services
+• AWS Skill Builder Certiﬁcation Amazon Web Services
+• IBM SkillsBuild Badge IBM
+• Hashgraph Developer Certiﬁcation Hashgraph Association
+ACHIEVEMENTS & LEADERSHIP
+Achievements
+• Secured 3rd Place in Code Optics, a university-level competitive programming competition organized by Parul
+University.
+• Selected among the Top 1000 Teams in the India Innovates 2026 National Innovation Challenge for developing an
+innovative software solution.
+• Participated in multiple national and university-level hackathons including Smart India Hackathon (SIH) , Vadodara
+Startup Festival (VSF 6.0) , and Tech Expo 2024, collaborating on innovative software solutions.
+Leadership Experience
+• Coordinated team activities during Vadodara Startup Festival (VSF 6.0) by assigning responsibilities, tracking project
+progress, and ensuring timely completion of deliverables.
+• Served as an organizing team member for Tech Expo 2026 and the PU Code Hackathon , contributing to event
+planning, volunteer coordination, and successful execution.
