@@ -20,10 +20,7 @@ A modern, responsive full-stack developer portfolio built with Next.js, React, T
 
 ## 📸 Preview
 
-![Nipun Kulshrestha Portfolio](docs/screenshots/portfolio-home.png)
-
-> **Note on Screenshot:**  
-> To display the live hero screenshot above, capture a full-browser screenshot of the running homepage and save it to `docs/screenshots/portfolio-home.png`.
+![Nipun Kulshrestha Portfolio](portfolio-assests/project%20shots/Screenshot%202026-09-13%20224429.png)
 
 ---
 
