@@ -14,7 +14,7 @@ A modern, responsive full-stack developer portfolio built with Next.js, React, T
 
 ## 🌐 Live Demo
 
-🚀 **Explore the live portfolio:** [portfolio-phi-ten-f3bqzzs19b.vercel.app](https://portfolio-phi-ten-f3bqzzs19b.vercel.app/)
+🚀 **Explore the live portfolio:** [portfolio-phi-ten-f3bqzzs19b.vercel.app](https://portfolio-nipun.vercel.app/)
 
 ---
 
@@ -279,7 +279,7 @@ npm run start
 
 ## ☁️ Deployment
 
-**Deployment Status:** Live on Vercel at [portfolio-phi-ten-f3bqzzs19b.vercel.app](https://portfolio-phi-ten-f3bqzzs19b.vercel.app/)
+**Deployment Status:** Live on Vercel at [portfolio-phi-ten-f3bqzzs19b.vercel.app](https://portfolio-nipun.vercel.app/)
 
 ### Deploying to Vercel:
 1. Push your latest commits to your GitHub repository.
