@@ -8,7 +8,7 @@ A modern, responsive full-stack developer portfolio built with Next.js, React, T
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?style=flat&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Node.js](https://img.shields.io/badge/Node.js->=18.18.0-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Resend](https://img.shields.io/badge/Resend-Email_API-black?style=flat&logo=resend&logoColor=white)](https://resend.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-Live_Deployment-0070F3?style=flat&logo=vercel&logoColor=white)](https://portfolio-phi-ten-f3bqzzs19b.vercel.app/)
+[![Vercel](https://img.shields.io/badge/Vercel-Live_Deployment-0070F3?style=flat&logo=vercel&logoColor=white)](https://portfolio-nipun.vercel.app/)
 
 ---
 
